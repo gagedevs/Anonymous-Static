@@ -2,15 +2,10 @@
 
 Anonymous-Static is an easy to setup unblocker for you to deploy.
 
-## Setup
+## About Anonymous
 
-###### WARNING: Anonymous WILL NOT work on your computer hosted locally and there will be a lot of errors. Please, if you don't know what you're doing, use an online service like Replit. Hosting locally is only for educational purposes.
+Anonymous was created by [Gage](https://github.com/oHeckGage), [Vortex](https://github.com/Vortexzzzz), and [Rena](https://github.com/renagamer101). It is supposed to be a super easy deployable proxy service for mass link creation and simplicity.
 
-First, download git CLI to your computer and open up the command line inside where you want the project to go.
-If you're using a service like Replit, skip this step.
+## Upcoming
 
-Next, type, ```git clone https://github.com/oHeckGage/Anonymous-Static``` or if you're on a website, Import from Github using that URL.
-
-Replit is already setup with Particles.js using Nix but if you're using a local setup, download Node JS. After you've downloaded node, type ```npm install particlesjs```.
-If you don't want Particles on your site at all, skip that step since the only dependency is Particles.js for the background.
-
+I am planning on adding a lot of new things (check the releases tab for a full list) including an ExpressJS server version of Anonymous, more games, more movies, more proxies and more. 
