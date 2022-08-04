@@ -11,6 +11,7 @@
   padding:10px;
   margin:auto;
   display:block;
+  margin-top:5px;
 }
 option {
   color:black;
@@ -82,9 +83,9 @@ i{
   color: #ffffff;
   padding: 10px;
   position: relative;
-  margin-bottom: 15px;
   margin:auto;
   display:block;
+  margin-top:5px !important;
 }
 .link::placeholder {
   text-align: center;
@@ -130,7 +131,7 @@ i{
   padding:10px;
   border-radius:10px;
   font-size:26px;
-  margin-bottom:15px;
+  margin-top:5px !important;
   margin:auto;
 }
 .ab::hover {
