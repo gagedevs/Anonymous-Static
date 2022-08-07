@@ -8,7 +8,7 @@ Anonymous was created by [Gage](https://github.com/oHeckGage), [Vortex](https://
 
 ## Upcoming
 
-I am planning on adding a lot of new things (check the releases tab for a full list) including an ExpressJS server version of Anonymous, more games, more movies, more proxies and more. 
+I am planning on adding a lot of new things (check the releases tab for a full list) including an React/Next.js version of Anonymous, more games, more movies, more proxies and more. 
 
 
 ###### WARNING: PLEASE DOWNLOAD THE OFFICIAL RELEASES, THE CURRENT VERSIONS MAY BE BROKEN. IF YOU FIND A BUG IN A NON-OFFICIAL RELEASE, PLEASE CREATE AN ISSUE.
