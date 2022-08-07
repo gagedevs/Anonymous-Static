@@ -41,7 +41,22 @@ h1 {
 body { 
   min-height: 100vh;
   background: #171717;
-  overflow:hidden;
+  overflow-x:hidden;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #777777;
+}
+::-webkit-scrollbar-thumb {
+  background: #444444;
+  border-radius:2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+  border-radius:2px;
 }
 
 .navbar {
