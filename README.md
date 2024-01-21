@@ -1,14 +1,3 @@
-## Anonymous
+# stop using this please 🙏 this was made 2 years ago, isn't updated, and is terrible... go to https://discord.gg/xi if you want a semi-quality proxy
 
-Anonymous-Static is an easy to setup unblocker for you to deploy.
-
-## About Anonymous
-
-Anonymous was created by [Gage](https://github.com/oHeckGage), [Vortex](https://github.com/Vortexzzzz), and [Rena](https://github.com/renagamer101). It is supposed to be a super easy deployable proxy service for mass link creation and simplicity.
-
-## Upcoming
-
-I am planning on adding a lot of new things (check the releases tab for a full list) including an React/Next.js version of Anonymous, more games, more movies, more proxies and more. 
-
-
-###### WARNING: PLEASE DOWNLOAD THE OFFICIAL RELEASES, THE CURRENT VERSIONS MAY BE BROKEN. IF YOU FIND A BUG IN A NON-OFFICIAL RELEASE, PLEASE CREATE AN ISSUE.
+# if you're rich, dm me on Discord @xgage and I'll setup a windows 10 vm w/ some insane specs that you can access from google for $30/mo for the actual vps itself, and +$10/mo for my services ($40/mo total). will buy you domains for it as well so its unblockable
